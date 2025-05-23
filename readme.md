@@ -21,6 +21,8 @@ http://172.17.198.240:8080/swagger-ui/index.html#
 ---
 
 ### 클백 연결표
+![img_4.png](img_4.png)
+---
 
 
 ---
@@ -46,3 +48,8 @@ http://172.17.198.240:8080/swagger-ui/index.html#
 ![img_3.png](img_3.png)
 
 ---
+
+구현 다 해 놓고.. git 망가져서 거의 3시간 동안 git 고치다가 결국 다시 만듦..
+git 공부의 중요성을 이렇게 다시 배웁니다..
+
+![img_5.png](img_5.png)
